@@ -1,4 +1,4 @@
-# Viernes de Herramientas
+# Viernes de Tools
 
 Este es un **documento vivo**, lo que significa que se actualizará semanalmente con todas las herramientas, recursos y links que compartimos en nuestro grupo de Telegram. Cada viernes, se recopilarán los enlaces más relevantes para que puedas tener acceso rápido a ellos en cualquier momento. Los aportes serán **agendados con la fecha del aporte** y, si el miembro que compartió el link desea ser mencionado, puede indicarlo para incluir su nombre en la lista.
 
